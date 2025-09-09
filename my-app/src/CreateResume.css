@@ -1,0 +1,63 @@
+body, html, #root { 
+  margin: 0;
+   padding: 0; 
+   width: 100%; 
+   height: 100%; 
+}
+
+#back{
+    text-align: left;
+}
+
+#resume{
+    width:100%;
+    margin: 0px auto;
+    text-align: center;
+}
+#top{
+    width: 60%;
+    margin: 0px auto;
+    text-align: left;
+    
+}
+
+input, textarea{
+    border-radius: 5px;
+}
+
+.phno, .join{
+    width: 48%;
+    float: left;
+}
+
+.email, .end{
+    width: 48%;
+    float: right;
+}
+
+#bottom{
+    width: 60%;
+    margin: 0px auto;
+    text-align: left;
+}
+
+h4{
+    margin: 0px;
+}
+
+textarea{
+    width: 100%;
+}
+
+button{
+    background-color: black;
+    color: white;
+    margin: 20px;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    
+}
